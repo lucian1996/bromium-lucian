@@ -1,0 +1,22 @@
+{
+  "name": "bromium-lucian",
+  "displayName": "bromium-lucian",
+  "description": "bromium altered by Lucian",
+  "version": "0.0.1",
+  "publisher": "Lucian",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bromium-lucian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bromium-lucian-color-theme.json"
+      }
+    ]
+  }
+}
