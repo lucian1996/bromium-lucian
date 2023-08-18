@@ -4,12 +4,22 @@
   "description": "bromium altered by Lucian",
   "version": "0.0.1",
   "publisher": "Lucian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucian1996/bromium-lucian"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
+  "keywords": [
+    "bromium",
+    "lucian",
+    "theme"
+  ],
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
